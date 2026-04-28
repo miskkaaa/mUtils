@@ -21,6 +21,6 @@ using namespace geode::prelude;
 #include "qol/delayedtask.hpp"
 #include "string/helper.hpp"
 #include "string/parser.hpp"
-
+#include "ui/ui.hpp"
 
 // The Unlicense license (do anything you want with this code loll)
